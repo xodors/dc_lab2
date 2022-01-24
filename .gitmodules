@@ -1,0 +1,3 @@
+[submodule "dc_lab2"]
+	path = dc_lab2
+	url = https://github.com/xodors/dc_lab2
