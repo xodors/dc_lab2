@@ -2,7 +2,7 @@
 
 int main()
 {
-    int a, b, c;
+    int a, b, c;//целочисленный
     scanf_s("%d", &a);
     printf("\n");
     printf("2) %x\n", a);
