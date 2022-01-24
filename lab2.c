@@ -7,6 +7,6 @@ int main()
     scanf("%f",&a);
     double z1 = (1-2*sin(a)*sin(a))/(1+sin(2*a));
     double z2 = (1-tan(a))/(1+tan(a));
-    printf("%f %f",z1,z2);
+    printf("%f %f",z1,z2);//результат
     return 0;
 }
